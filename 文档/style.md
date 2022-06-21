@@ -61,7 +61,7 @@ sidebar_position: 20
 ```html
 <style>
 .chakra-ui-light{
-  background-image: url("https://www.dmoe.cc/random.php") !important;
+  background-image: url("https://www.dmoe.cc/random.php") !impor
   background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position-x:center;
 }
 .main-box {
